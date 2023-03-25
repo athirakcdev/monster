@@ -1,5 +1,6 @@
 
 import "./card.css"
+//card model
 const Card = (props)=> {
    
         const {name,id,email} = props.monster
